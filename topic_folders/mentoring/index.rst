@@ -1,4 +1,4 @@
-MENTORING
+INSTRUCTOR DEVELOPMENT
 =======================
 
 .. toctree::
@@ -7,8 +7,8 @@ MENTORING
 
    mentoring-groups.md
    mentoring-groups-roles.md
-   mentoring-subcommittee.md
-   mentoring-subcommittee-roles.md
+   instructor-development-committee.md
+   instructor-development-committee-roles.md
    discussion_session.md
    email_templates.md
    
